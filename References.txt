@@ -1,5 +1,6 @@
 //http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/7-Sort/merge-sort5.html
 //http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/7-Sort/merge-sort3.html
+//https://www.geeksforgeeks.org/heap-sort/
   //merge sort top->down
    public static void sort(double[] a)
    {
